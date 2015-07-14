@@ -8,7 +8,7 @@ import static com.ubs.opsit.interviews.ValidateUtils.*;
 
 public class BerlinClock implements TimeConverter {
 
-	@Override
+    @Override
     public String convertTime(String aTime){
     	Time time = Time.parse(aTime);
     	ClockState clockState = show(time);
