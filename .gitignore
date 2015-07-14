@@ -1,0 +1,27 @@
+build/
+classes/
+.idea/
+.gradle/
+.classpath
+.project
+.settings/
+*.iml
+
+
+# added by GitSavvy
+/README FIRST.md
+
+# added by GitSavvy
+/README.md
+
+# added by GitSavvy
+/gradle/
+
+# added by GitSavvy
+/gradlew
+
+# added by GitSavvy
+/gradlew.bat
+
+# added by GitSavvy
+/gradlew.batt
